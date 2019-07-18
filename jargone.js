@@ -9,7 +9,7 @@
 
 javascript:(function () { 
 
-    // list of words to avoid based on https://www.gov.uk/designprinciples/styleguide#item_4_1_3
+    // list of words to avoid based on https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style and https://style.ons.gov.uk/category/house-style/language-and-spelling/#words-not-to-use
     var words = [
             ['agenda', "unless it’s for a meeting (GDS 2019)"],
             ['advancing', "(GDS 2019)"],
